@@ -82,7 +82,13 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string># Alfred Atom Notes
+
+An workflow for [Atom's](http://atom.io) Notational Velocity-like [Atom Notes](https://atom.io/packages/atom-notes) package.
+
+## Commands
+
+* ⇧-⌘-j : Toggle the notes view. This will operate in the front-most, most recently active, or a new Atom window; it will start Atom if necessary.</string>
 	<key>uidata</key>
 	<dict>
 		<key>C2F789E0-9AE5-4D0F-9502-B7ADAAACAC2C</key>
@@ -100,6 +106,8 @@
 			<integer>190</integer>
 		</dict>
 	</dict>
+	<key>version</key>
+	<string>.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/robwalton/alfred-atom-notes</string>
 </dict>
