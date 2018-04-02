@@ -1,6 +1,6 @@
 # Alfred Atom Notes
 
-An [Alfred 3](http://alfredapp.com) workflow for [Atom](http://atom.io)'s [notational-velocity](http://brettterpstra.com/projects/nvalt/) like [atom-notes](https://atom.io/packages/atom-notes) package.
+An [Alfred 3](http://alfredapp.com) workflow for [Atom's](http://atom.io) [Notational Velocity](http://brettterpstra.com/projects/nvalt/)-like [Atom Notes](https://atom.io/packages/atom-notes) package.
 
 ## Commands
 
