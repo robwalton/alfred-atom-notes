@@ -1,6 +1,6 @@
 # Alfred Atom Notes
 
-An [Alfred 3](alfredapp.com) workflow for [Atom](atom.io)'s [notational-velocity](http://brettterpstra.com/projects/nvalt/) like [atom-notes](https://atom.io/packages/atom-notes) package.
+An [Alfred 3](http://alfredapp.com) workflow for [Atom](http://atom.io)'s [notational-velocity](http://brettterpstra.com/projects/nvalt/) like [atom-notes](https://atom.io/packages/atom-notes) package.
 
 ## Commands
 
@@ -8,4 +8,4 @@ An [Alfred 3](alfredapp.com) workflow for [Atom](atom.io)'s [notational-velocity
 
 ## Installation
 
-Download the [latest workflow](https://github.com/robwalton/alfred-atom-nots/releases/latest) and double-click to install. Make sure to install [Atom](atom.io) and [Atom Notes](https://atom.io/packages/atom-notes) too!
+Download the [latest workflow](https://github.com/robwalton/alfred-atom-nots/releases/latest) and double-click to install. Make sure to install [Atom](http://atom.io) and [Atom Notes](https://atom.io/packages/atom-notes) too!
