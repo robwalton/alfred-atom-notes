@@ -8,4 +8,4 @@ An [Alfred 3](http://alfredapp.com) workflow for [Atom's](http://atom.io) [Notat
 
 ## Installation
 
-Download the [latest workflow](https://github.com/robwalton/alfred-atom-nots/releases/latest) and double-click to install. Make sure to install [Atom](http://atom.io) and [Atom Notes](https://atom.io/packages/atom-notes) too!
+Download the [latest workflow](https://github.com/robwalton/alfred-atom-notes/releases/latest) and double-click to install. Make sure to install [Atom](http://atom.io) and [Atom Notes](https://atom.io/packages/atom-notes) too!
